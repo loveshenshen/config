@@ -36,10 +36,10 @@ pagehelper:
   params: count=countSql
 
 #eureka 客户端
-# eureka:
-#   client:
-#     serviceUrl:
-#       defaultZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/
       
       
 env: dev     
