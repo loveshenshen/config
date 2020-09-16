@@ -19,7 +19,7 @@ spring:
       port: 27017
       database: spring-shen
       host: localhost
-      uri: mongodb://localhost:27017
+#       uri: mongodb://localhost:27017
 
 
 
