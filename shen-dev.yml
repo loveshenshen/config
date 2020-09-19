@@ -44,5 +44,5 @@ eureka:
       
 env: dev
 shen:
-   name: jin
+   name: jinbiao
    age: 18
