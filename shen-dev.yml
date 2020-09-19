@@ -44,5 +44,5 @@ eureka:
       
 env: dev
 shen:
-    name:jin
-    age:18
+   name: jin
+   age: 18
