@@ -11,5 +11,6 @@ zuul:
     config:
        path: /config/**
        service-id: config
-  ignored-pattern: 
+  ignored-patterns:
     - /goods/**
+    - /config/**
