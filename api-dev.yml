@@ -8,8 +8,8 @@ logging:
 zuul:
   routes:
     goods: /goods/**
- ignored-pattern: 
-    - /goods/**
     config:
-      path: /config/**
-      service-id: config
+       path: /config/**
+       service-id: config
+ ignored-pattern: 
+   - /goods/**
